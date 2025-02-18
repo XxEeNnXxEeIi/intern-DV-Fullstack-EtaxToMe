@@ -1,0 +1,6 @@
+@MyFirestoreApi_HostAddress = http://localhost:5015
+
+GET {{MyFirestoreApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
